@@ -10,7 +10,9 @@ https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/
 
 https://docs.microsoft.com/en-us/powershell/azure/install-az-ps?view=azps-5.6.0&viewFallbackFrom=azps-2.5.0
 
-
+```
+Install-Module -Name Az -AllowClobber
+```
 ```
 Connect-AzAccount
 ```
