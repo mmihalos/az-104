@@ -1,4 +1,12 @@
 ```
+# connect to Azure AD
+Connect-AzureAD
+```
+```
+# see Azure AD users
+Get-AzureADUser
+```
+```
 # create a new user
 New-AzureADUser
 ```
